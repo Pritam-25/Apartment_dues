@@ -29,8 +29,8 @@ A clean, modern web-based system to manage monthly dues for apartments, hostels,
 - Sort dues by:
   - Month
   - Amount
-  - Created Date
-  - ID
+  - Date
+  - Time
 
 ### ✅ Toast Messages
 - Displays confirmation for Add, Update, Delete.
